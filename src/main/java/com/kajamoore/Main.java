@@ -9,11 +9,7 @@
  *
 */
 
-/* NOTE: when searching for JAR input "java -cp .\LibrarySystem-1.0-SNAPSHOT.jar com.kajamoore.Main"
- * The java "-jar .\LibrarySystem-1.0-SNAPSHOT.jar" will not open it.
- * Found another way through the video that was provided through resources
- * https://www.youtube.com/watch?v=870XIYMrlSo
- */
+// GitHub Link: https://github.com/KajaM12/LocalLibrarySystem.git
 
 package com.kajamoore;
 
